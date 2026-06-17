@@ -25,34 +25,34 @@ A square grid tactical RPG where the units are customizable gundams composed of 
 
 Rather than having a set number of "actions", your bots can attack until they run out of heatsink points. Some builds can start burning HP as heatsink when they run out. 
 
-Each part has a unique stat profile, and two slots. One is a passive ability that gets triggered automatically and the other is an active ability which provides an attack via a mounted gun or something. Every part has these two slots, and each can be empty or full. The active and passive slots can have secret alternative abilities that the part can be switched to.
+Each part has a unique stat profile, and two ability slots. One is a passive ability that gets triggered automatically and the other is an active ability which provides an attack via a mounted gun or something. Every part has these two slots, and each can be empty or full. Parts can also have secret alternative abilities for each of these slots that are switched to by spending an item. 
 
 The stat profile of the bot is the sum of it's parts, and then this stat spread is scaled based on the level of the core. However a robot can be more than the sum of it's parts by using part abilities that synergize to create powerful effects. For example an arm that throws mines to nearby empty spaces would synergize with legs that are immune to blast damage to create an on-demand aoe attack.
 
 ## Gameplay
 
-There are two modes to the game. The overworld and the microworld. In the overworld you walk around as a normal kid and talk to people and examine stuff like Megaman Battle Network. You can also deploy your robot to the micro world.
+There are three modes to the game. The overworld, the micro-overworld, and the combat grid. In the overworld you walk around as a normal kid and talk to people and examine stuff like Megaman Battle Network. You can also deploy your robot to the tile in front of you to enter the micro overworld.
 
-The microworld has your leader bot flying over a Mode7 map where a fixed-seed proc-gen map texture has it's parameters set by the tile that you started on. While flying around you see enemies, and if they get to you or shoot you a battle starts.
+The microworld has your leader bot flying over a Mode7 map where a fixed-seed proc-gen map texture has it's parameters set by the tile that you started on. While flying around you see enemies, and if an enemy touches or shoot you a battle starts.
 
-There are also points of interest where you can land and go to dungeons which can also be towns, or just a single-screen secret cave. These are like combat encounters, but there may be no enemies, in which case it's always your turn. And the sides of the screen may have doors that go to other screens of the dungeon.
+There are also points of interest where you can land and go to dungeons which can also be towns, or just a single-screen secret cave. These are on a battle grid, but there may be no enemies, in which case it's always your turn. And the sides of the screen may have doors that go to other screens of the dungeon.
 
 ### Chill micro base
 
-In dungeons there are pylons you can touch to warp your party to and from a base in your bracelet, which is where your spare guys hang out and you can change the loadouts. You can dump money into this place to buy stuff like a machine that combines parts for higher quality, and exercise machines that passively give xp to bots using them. You can also decorate it and display trophies for accomplishing milestones or hard achievements.
+In dungeons there are pylons you can touch to warp your party to and from a base in your bracelet, which is where your spare guys hang out and you can change the loadouts. You can dump money into this place to buy stuff like a machine that combines parts for higher quality, or item farm machines. The machines require someone to be working them so levelling up bots just to use as workers is useful. it's like an idle game within the game 
 
-Some parts generate items when earning xp, so farming items can be done here also. 
+You can also decorate it and display trophies for accomplishing milestones or hard achievements.
 
 
 ## Parts
 
 ### Skeleton
 
-The skeleton is completely generic. It's just a thing you buy/find to have another robot. As such they're rare to come by especially in the early game, where one way we ease-in the depth is with how many party members we expect/allow the player to have. The skeleton has all zero stats which aren't even shown to the player and it can't be upgraded. 
+The skeleton is completely generic. It's just a thing you buy/find to have another robot. As such they're rare to come by especially in the early game, where one way we ease-in the depth is with how many party members we expect/allow the player to have. The skeleton has all zero stats which aren't even shown to the player and it can't be upgraded. However late game it's possible to find skeletons with extra arms. 
 
 ### Body parts
 
-All body parts have a stat profile, can have one passive ability, can have one hidden alternate passive ability, and can have one weapon. Weapons add active abilities that your bot can do. A part being a legs part doesn't inherently say anything about what stats and ability it has, but there are running themes like most weapons being arm parts, and legs generally contributing the speed of the build.
+All body parts have a stat profile and two ability slots. Weapons add active abilities that your bot can do. A part being a legs part doesn't inherently say anything about what stats and ability it has, but there are running themes like most weapons being arm parts, and legs generally contributing the speed of the build.
 
 Types of part:
 
