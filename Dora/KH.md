@@ -2,7 +2,7 @@
 
 ## Gameplay Synopsis 
 
-There is a series of different themed realms that you go between in order to complete story objectives and grind. 
+There is a series of different themed planets in a solar system that you travel around in order to complete story objectives and grind. Going between these realms is done using a space ship that hovers in stationary orbit over the planet you're on. Activating waypoints on the planets gives you points to warp to and from the ship.
 
 The keyblades are replaced with the USBblade, a magical weapon that can rapidly switch between different forms. Every realm has at least one new form which permits exploring another realm that was previously locked off due to unsolvable puzzles. They each have an effect that can be used on enemies or environmental objects for puzzle solving. 
 
@@ -20,9 +20,9 @@ Pull blade - pulls stuff toward you (or you toward it if it's affixed)
 
 Forms can be selected from a radial menu which pauses the game. Stacking effects results in more damage and other advantages such as lightning chaining across wet enemies. 
 
-It's also possible to pre-program a combo and bind it to a face button. When using a programmed combo you just press the attack button like normal. But when attack is pressed, it starts a timer to switch to the next form, and the switches happens automatically. If the blade switches and you don't attack, it starts the timer but switches back to the default blade you have equipped instead of the next one in the combo. The switches are all happening on a rhythm and if you attack at the same time a switch occurs, it delivers a way stronger slash. 
+It's also possible to pre-program a combo and make it an entry in the action menu. When using a programmed combo you just press the attack button like normal while the desired combo is selected. But when attack is pressed, it starts a timer to switch to the next form, and the switch happens automatically. If the blade switches and you don't attack, it starts the timer but switches back to the default blade you have equipped instead of the next one in the combo. The switches are all happening on a rhythm and if you attack at the same time a switch occurs, it delivers a way stronger slash. 
 
-There can b a lot of grinding but it's meant to be fun grinding that gets faster and faster the stronger you get, and you can put effort into finding the best places and ways to grind. Every realm has a level of "corruption" that can be brought down to an acceptable level, or brought down to absolute zero with greater effort if you love to grind away. The more the game opens up, the more options you have for what to grind at that time.
+There can be a lot of grinding but it's meant to be fun grinding that gets faster and faster the stronger you get, and you can put effort into finding the best places and ways to grind. Every realm has a level of "corruption" that can be brought down to an acceptable level, or cleared to absolute zero with greater effort if you love to grind away. The more the game opens up, the more options you have for what to grind at that time.
 
 
 
