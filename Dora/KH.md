@@ -7,10 +7,15 @@ There is a series of different themed realms that you go between in order to com
 The keyblades are replaced with the USBblade, a magical weapon that can rapidly switch between different forms. Every realm has at least one new form which permits exploring another realm that was previously locked off due to unsolvable puzzles. They each have an effect that can be used on enemies or environmental objects for puzzle solving. 
 
 Burn blade - catches stuff on fire 
+
 Ice blade - freezes stuff in a block of ice that can be pushed and jumped on 
+
 Time blade - makes stuff slow-mo
+
 Push blade - pushes away
+
 Pull blade - pulls stuff toward you (or you toward it if it's affixed)
+
 ??? blade - Nobody knows what it does. Where did it even come from? (It causes a nuclear blast if you hit something with every other status applied, it's Turn A as a sword basically)
 
 Forms can be selected from a radial menu which pauses the game. Stacking effects results in more damage and other advantages such as lightning chaining across wet enemies. 
