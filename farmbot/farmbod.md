@@ -8,11 +8,13 @@ It should be a somewhat original gameplay concept that allows telling a story th
 
 # Robo Gardener
 
-2D platforming game where you're a robot that can plant seeds, and you farm flowers and vegetables which can be consumed or sold. Consuming the plants is how you level up and recharge abilities.  
+2D platforming game where you're a robot that can plant seeds, and you farm flowers and vegetables which can be consumed or sold. Consuming the plants is how you level up and recharge abilities. Your producitivity is ultimately going towards growing a big tree until it's so big you can climb out of the giant pit that the game takes place in. You farm plants or make progress into the unknown until your battery dies (or you shut down on purpose) and then it goes to the next day which advances all the plants.
 
 The entire world can have seeds planted on any tile but it's like Harvest Moon, you have to hack away the weeds and stuff before anything can be planted. But in addition, any seeds planted in impure land will more quickly wither and die because the world is corrupted. A special and expensive flower will soak up the corruption and then eventually die. The tiles will then re-corrupt unless the area boss has been killed. When it's dead you can start destroying the previously invincible weeds, permanently killing off enemies, and planting good plants that will grow much better. The frequency of enemies from those biomes coming to eat your crops is also reduced. The overall goal is about satisfyingly cleaning up a big mess bit by bit.  
 
 The world is an open metroidvania-style assortment of biomes that are connected by the central hub, which is a relatively safe area that you can farm right away. Each area has a merchant that can be rescued who sells seeds for that biome and buys crops. Crops from further biomes are bought at a premium.
+
+There is also a magic sapling at the center of everything which is why you woke up. You can dump money into it to make it grow and whenever it gets past a threshold it grows bigger, and at later stages you can go inside for a challenge level that evolves every time the tree grows and you have to go in there to unlock the harder areas up above. 
 
 ## Player Character
 
@@ -44,6 +46,10 @@ jump thruster
 ## Robo Record
 
 You can find dead robots and fix them to create workers. To use a worker you enter "record" mode which can record x seconds of your actions, which will be repeated by any worker that is given that recording as a tape. There can be too many plants to water yourself, so this is eventually required. 
+
+## Merchants
+
+Each area has a merchant with a store that eventually upgrades to a fancier version that sells an additional special thing. Each merchant is also a distinct character with a life story that unlocks in pieces as the amount you've sold crosses thresholds.  
 
 ## Resources
 
